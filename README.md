@@ -87,7 +87,7 @@ In some cases, it may be useful to review how much a terminus has changed betwee
 
 ![image](https://user-images.githubusercontent.com/40822976/154951521-d091a77c-2fbd-4291-a3c7-733548462181.png) ![image](https://user-images.githubusercontent.com/40822976/154951564-3da821c7-e513-47f7-a293-ded537be3686.png)
 
-Geometry layers will exist for every image that has been visualised, though layers where digitisations exist for will have _(1 line)_ in green associated with the geometry layer label (see figure above).
+Geometry layers will exist for every image that has been visualised, though layers where digitisations exist for will have _(1 line)_ in green associated with the geometry layer label (see figure above). 
 
 ### Exporting terminus data
 Once all termini have been digitised, the data can be exported to a user's Google Drive by first clicking on the Export button in the lower right of the screen. **Note that this by itself does not export data to Drive. A couple more steps are needed!**.
